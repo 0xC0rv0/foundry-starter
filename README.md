@@ -1,3 +1,17 @@
+### First Foundry Project
+
+** Using forge , cast , anvil Network**
+
+- Applying Unit Testings and deploying on Sepolia TestNet Network
+
+Adding Openzeppelin-contracts for furthur usage
+
+
+
+
+
+
+
 ## Foundry
 
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
